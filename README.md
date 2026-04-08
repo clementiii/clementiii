@@ -89,3 +89,16 @@
 - GitHub: [github.com/clementiii](https://github.com/clementiii)
 
 ---
+
+## Mini Game Corner
+
+<p align="left">
+  <a href="https://play2048.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-2048-ff6b6b?style=for-the-badge&logo=gamejolt&logoColor=white" alt="play 2048" />
+  </a>
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Tetris-4d96ff?style=for-the-badge&logo=itchdotio&logoColor=white" alt="play tetris" />
+  </a>
+</p>
+
+Quick break? Pick a game above and come back locked in.
