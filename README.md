@@ -90,15 +90,12 @@
 
 ---
 
-## Mini Game Corner
+## Arcade Break
 
-<p align="left">
-  <a href="https://play2048.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Play-2048-ff6b6b?style=for-the-badge&logo=gamejolt&logoColor=white" alt="play 2048" />
-  </a>
-  <a href="https://tetris.com/play-tetris" target="_blank">
-    <img src="https://img.shields.io/badge/Play-Tetris-4d96ff?style=for-the-badge&logo=itchdotio&logoColor=white" alt="play tetris" />
-  </a>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="pixel arcade gif" />
 </p>
 
-Quick break? Pick a game above and come back locked in.
+<p align="center">
+  <i>Build. Break. Learn. Repeat.</i>
+</p>
