@@ -90,12 +90,8 @@
 
 ---
 
-## Arcade Break
+## ME:
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="pixel arcade gif" />
-</p>
-
-<p align="center">
-  <i>Build. Break. Learn. Repeat.</i>
 </p>
