@@ -11,10 +11,11 @@
 
 ## About Me
 
-- Computer Science student building practical full-stack projects.
+- Computer Science graduate building practical full-stack projects.
 - Interested in game-inspired systems, admin dashboards, and web platforms.
 - I like taking ideas from concept to deployable, user-friendly products.
 - Focused on writing maintainable code and learning modern dev workflows.
+- I am currently working on an HVAC company and learning more about Building Management Systems.
 
 ## Tech Stack
 
